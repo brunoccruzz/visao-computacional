@@ -1,0 +1,18 @@
+# Imagens geradas (contêm foto pessoal)
+saida/
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editor / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
