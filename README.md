@@ -5,6 +5,7 @@ Atividades da disciplina de Visão Computacional, feitas em Python com OpenCV.
 | # | Atividade | Conteúdo |
 |---|-----------|----------|
 | 01 | [Selfie e filtros](atividade-01-selfie-filtros/) | Captura pela webcam, texto na imagem, flips, canais RGB, GRAY/HSV/LAB |
+| 02 | [Bordas](atividade-02-bordas/) | Blur, binarização Otsu, Canny e contagem de objetos por contornos |
 
 ## Como rodar
 
